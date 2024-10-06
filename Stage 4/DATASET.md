@@ -27,3 +27,5 @@
 **R1:**[https://github.com/josoga2/yt-dataset/raw/main/dataset/raw_reads/Drysdale_R1.fastq.gz](https://github.com/josoga2/yt-dataset/raw/main/dataset/raw_reads/Drysdale_R1.fastq.gz)
 
 **R2:**[https://github.com/josoga2/yt-dataset/raw/main/dataset/raw_reads/Drysdale_R2.fastq.gz](https://github.com/josoga2/yt-dataset/raw/main/dataset/raw_reads/Drysdale_R2.fastq.gz)
+
+**REFERENCE GENOME:** [https://raw.githubusercontent.com/josoga2/yt-dataset/main/dataset/raw_reads/reference.fasta](https://raw.githubusercontent.com/josoga2/yt-dataset/main/dataset/raw_reads/reference.fasta)
