@@ -29,3 +29,16 @@ In Phase 1, I worked with a team member to set up a basic pipeline to analyze se
 In Phase 2, we analyzed and visualized WHO datasets on global cholera outbreak from 1949 to 2016. We identified key trends, patterns and significant outbreaks. We also developed a summary template for reporting cholera outbreak data for different countries.
 
 After this, we teamed up with four front-end bioinformaticians and provided them with our data, figures and reports. With the aid of these, they developed an interactive dashboard to visualize the cholera outbreak data. The link can be found here: <https://goal-getters.shinyapps.io/Cholera/>
+
+**Stage 4: Pipeline Implementation**
+
+At this stage of the internship, I worked with one other team member to set up a pipeline to analyze sequencing data.
+
+**Stage 5: Project Phase**
+
+In a group of four, we came up with a research topic and made a short presentation to justify the need for our study.
+
+**Stage 6: Project Phase continued**
+
+This phase is still ongoing. We are currently retrieving high-quality _Klebsiella pneumoniae_ genomes assembled from previous studies and analyzing the antibiotic resistance profiles of each strain.
+
